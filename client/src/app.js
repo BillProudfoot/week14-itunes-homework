@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import TunesContainer from './containers/TunesContainer.jsx';
 
 window.addEventListener('load', () => {
   const targetDiv = document.getElementById('app');
